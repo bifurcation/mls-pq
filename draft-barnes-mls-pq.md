@@ -25,9 +25,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: "Richard Barnes"
     organization: Your Organization Here
-    email: your.email@example.com
+    email: "rlb@ipv.sx"
 
 normative:
 
