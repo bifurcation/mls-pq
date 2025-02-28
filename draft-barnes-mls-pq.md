@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: MLS Working Group
+area: ""
+workgroup: "Messaging Layer Security"
 keyword:
  - post-quantum
  - PQ/T hybrid
  - Messaging Layer Security
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Messaging Layer Security"
+  type: ""
+  mail: "mls@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/mls/"
+  github: "bifurcation/mls-pq"
+  latest: "https://bifurcation.github.io/mls-pq/draft-barnes-mls-pq.html"
 
 author:
  -
